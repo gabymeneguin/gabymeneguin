@@ -1,8 +1,5 @@
 # sobre mim 
 
-## editando o perfil
-
-### teste
 
 - 👋 Olá meu nome é @gabymeneguin
 -  :+1: meu email de contato é gabysantosmene@gmail.com
